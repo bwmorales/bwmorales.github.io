@@ -1,3 +1,3 @@
 # whoami
 
-I do a little bit of everything at Cirrus Partners.
+I do a little bit of everything at [Cirrus Partners](https://gocirrus.com).
