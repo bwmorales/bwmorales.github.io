@@ -1,1 +1,0 @@
-Benjamin is an IT consultant specializing in macOS and Linux operating systems. Originally from Washington State, Benjamin appreciates coffee, mountains, and rainy days. He currently resides in Madison, WI.
