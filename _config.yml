@@ -1,4 +1,4 @@
-remote_theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 title: Benjamin W. Morales
 desciption: Tinkering with infosys
 timezone: America/Chicago
