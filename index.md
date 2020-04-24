@@ -1,17 +1,16 @@
 ---
-tite: 
 ---
-# whoami
+## whoami
 
 I'm an IT consultant specializing in macOS and Linux operating systems. As a native of the PNW, I enjoy coffee, mountains, and rainy days. 
 
 I currently reside in Madison, WI, and I do a little bit of everything at [Cirrus Partners](https://gocirrus.com).
 
-# skills
+## skills
 
-Apple Certified Support Professional, G Suite Sales Fundamentals, G Suite Deployment Services Specialist, MDM, Linux management, DevOps, Bash, Python, Zsh, BIND9, Addigy, coaching, training, documentation, git, project management
+ACSP, G Suite Sales Fundamentals, G Suite Deployment Services Specialist, MDM, Linux management, Bash, Python, Zsh, BIND9, Addigy, coaching, training, documentation, git
 
-# experience
+## experience
 
 **Cirrus Partners, WI** - *Director of IT Systems*
 
@@ -40,5 +39,5 @@ AUG 2014 - OCT 2016
 - Created After-School Maker’s Club and developed STEM program
 - Consistently improved YOY scores in TerraNova and PSAT
 
-# Education
-Faith Evangelical, Washington — B.A, 2013
+## Education
+Faith Evangelical College and Seminary, Washington — B.A, 2013
