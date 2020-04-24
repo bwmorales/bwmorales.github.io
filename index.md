@@ -1,4 +1,5 @@
 ---
+description: The personal site of Benjamin W. Morales.
 ---
 ## whoami
 
