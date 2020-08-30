@@ -5,11 +5,11 @@ description: The personal site of Benjamin W. Morales.
 
 I'm an IT consultant specializing in macOS and Linux operating systems. As a native of the PNW, I enjoy coffee, mountains, and rainy days. 
 
-I currently reside in Madison, WI, and I do a little bit of everything at [Cirrus Partners](https://gocirrus.com).
+I currently reside in Madison, WI, and I serve as the CTO at [Cirrus Partners](https://gocirrus.com).
 
 ## skills
 
-ACSP, G Suite Sales Fundamentals, G Suite Deployment Services Specialist, MDM, Linux management, Bash, Python, Zsh, BIND9, Addigy, coaching, training, documentation, git
+ACSP, G Suite Sales Fundamentals, G Suite Deployment Services Specialist, Apple MDM, Linux management, Bash, Python, Zsh, BIND9, Addigy, coaching, training, documentation, git
 
 ## experience
 
