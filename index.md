@@ -5,7 +5,7 @@ description: The personal site of Benjamin W. Morales.
 
 I'm an IT consultant specializing in macOS and Linux operating systems. As a native of the PNW, I enjoy coffee, mountains, and rainy days. 
 
-I currently reside in Madison, WI, where I serve as the CTO at [Cirrus Partners](https://gocirrus.com).
+I currently reside in Madison, WI, where I serve as the CEO at [Cirrus Partners](https://gocirrus.com).
 
 ## skills
 
@@ -13,17 +13,29 @@ ACSP, G Suite Sales Fundamentals, G Suite Deployment Services Specialist, Apple 
 
 ## experience
 
+**Cirrus Partners, WI** - *President & CEO*
+
+January 2021 - Present
+
+- Cultivating Cirrus' mission, vision, and values
+- Developing and leading the strategic initiatives at Cirrus Partners
+- Analyzing and adapting operations to improve global efficiencies
+- Planning short-term and long-term financial goals with Board
+- Working with clients to define and actualize strategic and operational goals
+- Creating policy
+- Selecting vendors and managing relationships
+
 **Cirrus Partners, WI** - *CTO*
 
-July 2020 - Present
+July 2020 - December 2020
 
-- Aligning use of technology with business model, strategy, and contraints to support operational success
-- Leading the research, testing, implementation, and use of new and existing technologies
-- Supervising technical staff
-- Supervising system infrastructure management
-- Collaborating with the CEO to plan short-term and long-term fiscal goals
-- Policy creation
-- Vendor management
+- Aligned use of technology with business model, strategy, and contraints to support operational success
+- Lead the research, testing, implementation, and use of new and existing technologies
+- Supervised technical staff
+- Supervised system infrastructure management
+- Collaborated with the CEO to plan short-term and long-term fiscal goals
+- Created technical policy
+- Managed vendor relationships
 
 **Cirrus Partners, WI** - *Director of Managed IT Systems*
 
