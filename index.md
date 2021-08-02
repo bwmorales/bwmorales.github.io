@@ -1,9 +1,10 @@
 ---
 description: The personal site of Benjamin W. Morales.
 ---
+
 ## whoami
 
-I'm an IT consultant specializing in macOS and Linux operating systems. As a native of the PNW, I enjoy coffee, mountains, and rainy days. 
+I'm an IT consultant specializing in macOS and Linux operating systems. As a native of the PNW, I enjoy coffee, mountains, and rainy days.
 
 I currently reside in Madison, WI, where I serve as the CEO at [Cirrus Partners](https://gocirrus.com).
 
@@ -13,7 +14,7 @@ ACSP, G Suite Sales Fundamentals, G Suite Deployment Services Specialist, Apple 
 
 ## experience
 
-**Cirrus Partners, WI** - *President & CEO*
+**Cirrus Partners, WI** - _President & CEO_
 
 January 2021 - Present
 
@@ -25,7 +26,7 @@ January 2021 - Present
 - Creating policy
 - Selecting vendors and managing relationships
 
-**Cirrus Partners, WI** - *CTO*
+**Cirrus Partners, WI** - _CTO_
 
 July 2020 - December 2020
 
@@ -37,7 +38,7 @@ July 2020 - December 2020
 - Created technical policy
 - Managed vendor relationships
 
-**Cirrus Partners, WI** - *Director of Managed IT Systems*
+**Cirrus Partners, WI** - _Director of Managed IT Systems_
 
 February 2018 - July 2020
 
@@ -48,8 +49,8 @@ February 2018 - July 2020
 - Built strong vendor and client relationships in a variety of market verticals, including HIPAA and SOC2 Type 2 environments
 - Provided consultation to other consultancies around the world
 - Business strategy and leadership
-  
-**Cirrus Partners, WI** - *Support Specialist*
+
+**Cirrus Partners, WI** - _Support Specialist_
 
 October 2016 - January 2018
 
@@ -57,8 +58,8 @@ October 2016 - January 2018
 - Solved level one and level two technical issues
 - Tested and applied patches
 - Assisted in the execution of project work
-  
-**Tacoma Christian Academy, Washington** — *Educator and Director of Technology, Media, and Communications*
+
+**Tacoma Christian Academy, Washington** — _Educator and Director of Technology, Media, and Communications_
 
 AUG 2014 - OCT 2016
 
@@ -74,4 +75,5 @@ AUG 2014 - OCT 2016
 - Consistently improved YOY scores in TerraNova and PSAT
 
 ## Education
+
 Faith Evangelical College and Seminary, Washington — B.A, 2013
